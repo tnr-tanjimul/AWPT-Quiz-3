@@ -14,6 +14,7 @@ function AppMain(){
 		</div>
 
         <RightSidebar></RightSidebar>
+        <div className="rightbar-overlay"></div>
         {/* END wrapper */}
         </>
     );
